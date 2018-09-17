@@ -23,6 +23,7 @@ const threads = [
       ]
     };
   },
+  
   ...generateThreads(
     findWins,
     ([x1, x2, x3]) =>
